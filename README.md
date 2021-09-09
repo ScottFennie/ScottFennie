@@ -1,7 +1,8 @@
 ![Gray Blue and Black Digitalism Group Petty Debate Game Fun Presentation (1)](https://user-images.githubusercontent.com/87448833/132603133-d07f406f-f8e3-4ceb-9ac7-1aa07e609773.png)
-<h1> Hi there 👋 my name is Scott Fennie! </h1>
-####                                                     ✨ Welcome to my Github page! ✨
-                                                        📫 Email me at: s.fennie4@gmail.com
+<h1 align="center">Hi there 👋 my name is Scott Fennie!</h1>
+<h3 align="center">✨ Welcome to my Github page! ✨</h3>
+<h3 align="center">📫 Email me at: s.fennie4@gmail.com</h3>                                             
+                                                        
 <!--
 **ScottFennie/ScottFennie** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
